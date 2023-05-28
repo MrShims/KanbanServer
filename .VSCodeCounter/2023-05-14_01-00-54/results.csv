@@ -1,0 +1,25 @@
+"filename", "language", "JavaScript", "comment", "blank", "total"
+"c:\Users\hilya\OneDrive\Рабочий стол\fullstack-kanban-app-main\server\src\v1\controllers\board.js", "JavaScript", 252, 6, 90, 348
+"c:\Users\hilya\OneDrive\Рабочий стол\fullstack-kanban-app-main\server\src\v1\controllers\resource.js", "JavaScript", 86, 8, 19, 113
+"c:\Users\hilya\OneDrive\Рабочий стол\fullstack-kanban-app-main\server\src\v1\controllers\section.js", "JavaScript", 35, 0, 3, 38
+"c:\Users\hilya\OneDrive\Рабочий стол\fullstack-kanban-app-main\server\src\v1\controllers\task.js", "JavaScript", 159, 7, 26, 192
+"c:\Users\hilya\OneDrive\Рабочий стол\fullstack-kanban-app-main\server\src\v1\controllers\useProfile.js", "JavaScript", 170, 14, 43, 227
+"c:\Users\hilya\OneDrive\Рабочий стол\fullstack-kanban-app-main\server\src\v1\controllers\user.js", "JavaScript", 60, 0, 12, 72
+"c:\Users\hilya\OneDrive\Рабочий стол\fullstack-kanban-app-main\server\src\v1\handlers\tokenHandler.js", "JavaScript", 30, 0, 2, 32
+"c:\Users\hilya\OneDrive\Рабочий стол\fullstack-kanban-app-main\server\src\v1\handlers\validation.js", "JavaScript", 10, 0, 2, 12
+"c:\Users\hilya\OneDrive\Рабочий стол\fullstack-kanban-app-main\server\src\v1\models\board.js", "JavaScript", 38, 0, 3, 41
+"c:\Users\hilya\OneDrive\Рабочий стол\fullstack-kanban-app-main\server\src\v1\models\modelOptions.js", "JavaScript", 9, 0, 0, 9
+"c:\Users\hilya\OneDrive\Рабочий стол\fullstack-kanban-app-main\server\src\v1\models\resource.js", "JavaScript", 30, 0, 3, 33
+"c:\Users\hilya\OneDrive\Рабочий стол\fullstack-kanban-app-main\server\src\v1\models\section.js", "JavaScript", 15, 0, 2, 17
+"c:\Users\hilya\OneDrive\Рабочий стол\fullstack-kanban-app-main\server\src\v1\models\task.js", "JavaScript", 65, 0, 5, 70
+"c:\Users\hilya\OneDrive\Рабочий стол\fullstack-kanban-app-main\server\src\v1\models\user.js", "JavaScript", 45, 0, 2, 47
+"c:\Users\hilya\OneDrive\Рабочий стол\fullstack-kanban-app-main\server\src\v1\routes\Depen.js", "JavaScript", 10, 0, 8, 18
+"c:\Users\hilya\OneDrive\Рабочий стол\fullstack-kanban-app-main\server\src\v1\routes\auth.js", "JavaScript", 46, 0, 4, 50
+"c:\Users\hilya\OneDrive\Рабочий стол\fullstack-kanban-app-main\server\src\v1\routes\board.js", "JavaScript", 106, 0, 27, 133
+"c:\Users\hilya\OneDrive\Рабочий стол\fullstack-kanban-app-main\server\src\v1\routes\index.js", "JavaScript", 10, 0, 4, 14
+"c:\Users\hilya\OneDrive\Рабочий стол\fullstack-kanban-app-main\server\src\v1\routes\recources.js", "JavaScript", 19, 0, 10, 29
+"c:\Users\hilya\OneDrive\Рабочий стол\fullstack-kanban-app-main\server\src\v1\routes\section.js", "JavaScript", 49, 0, 4, 53
+"c:\Users\hilya\OneDrive\Рабочий стол\fullstack-kanban-app-main\server\src\v1\routes\task.js", "JavaScript", 81, 0, 14, 95
+"c:\Users\hilya\OneDrive\Рабочий стол\fullstack-kanban-app-main\server\src\v1\routes\taskUser.js", "JavaScript", 13, 0, 13, 26
+"c:\Users\hilya\OneDrive\Рабочий стол\fullstack-kanban-app-main\server\src\v1\routes\user.js", "JavaScript", 12, 0, 9, 21
+"Total", "-", 1350, 35, 305, 1690

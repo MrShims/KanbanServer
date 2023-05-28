@@ -22,6 +22,7 @@ exports.getAll = async (req, res) => {
   try {
     const boards = await Board.find({ user: req.user._id }).sort('-position')
     res.status(200).json(boards)
+   
   } catch (err) {
     res.status(500).json(err)
   }

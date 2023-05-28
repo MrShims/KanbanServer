@@ -164,3 +164,28 @@ exports.setEndDate = async (req, res) => {
     res.status(500).json({ error: 'Произошла ошибка' });
   }
 };
+
+
+exports.setStartDate = async (req, res) => {
+  const { taskId } = req.params;
+  const { dateEnd } = req.body;
+
+  try {
+    // Обновляем задачу по идентификатору
+    const updatedTask = await Task.findByIdAndUpdate(
+      taskId,
+      { startDate: dateEnd },
+      { new: true }
+    );
+
+    if (!updatedTask) {
+      return res.status(404).json({ error: 'Задача не найдена' });
+    }
+
+    res.json(updatedTask);
+  } catch (error) {
+    console.error(error.message);
+    res.status(500).json({ error: 'Произошла ошибка' });
+  }
+};
+
